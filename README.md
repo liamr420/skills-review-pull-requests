@@ -13,11 +13,15 @@ _Collaborate and work together on GitHub._
 
 </header>
 
-<!--
-  <<< Author notes: Step 6 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
+
+<<< Author notes: Step 6 >>>
+
+Start this step by acknowledging the previous step.
+Define terms and link to docs.github.com.
+
+Suggestion
+## Step 5: Apply suggested changes
+
 
 ## Step 6: Merge your pull request
 
